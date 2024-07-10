@@ -29,6 +29,9 @@ This ensures that users can navigate and use the app in their preferred language
 
 ![Screenshot 2024-07-10 114814](https://github.com/Charity-Mahoro/Assignment-4/assets/173148554/a66c1257-bf0c-4782-8b66-afa308e02b00)
 ![Screenshot 2024-07-10 114901](https://github.com/Charity-Mahoro/Assignment-4/assets/173148554/39d335a0-4db5-41ae-ba18-d2f1a296794b)
+![Screenshot 2024-07-10 121250](https://github.com/Charity-Mahoro/Assignment-4/assets/173148554/22d3577a-864e-4ed2-b949-1b642b356598)
+
+
 
 
 
